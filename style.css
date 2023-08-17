@@ -1,0 +1,18 @@
+body
+{
+color: rgb(255, 0, 0);
+background: rgb(38, 250, 0);
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+#camera
+{
+    border: 2px dashed rgb(63, 63, 164);
+}
+.name_of_oject, #result_oject_name , #result_oject_accuracy
+{
+    color: orange;
+}
